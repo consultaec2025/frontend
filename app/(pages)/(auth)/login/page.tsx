@@ -1,3 +1,7 @@
 export default function LoginPage() {
-  return <div>Login Page</div>;
+  return (
+    <div>
+      <h1>MindNest</h1>
+    </div>
+  );
 }
