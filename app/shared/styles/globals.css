@@ -3,6 +3,8 @@
 @tailwind utilities;
 
 :root {
-    --primary-color: #B5C6AF;
-    --prymary-hover: #166534;
+  --primary-color: #b5c6af;
+  --primary-hover: #166534;
+
+  --primary-text-color: #6b997d;
 }
